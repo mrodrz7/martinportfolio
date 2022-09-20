@@ -1,3 +1,19 @@
-* {
-    background-color: aquamarine;
+body {
+    background-color: #FFFFE3;
+    padding: 25px;
+    font-family: sans-serif;
+}
+
+img {
+    width: 270px;
+    height: 300px;
+    border-radius: 75px;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+section {
+    display: flex;
 }
