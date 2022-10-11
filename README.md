@@ -14,4 +14,4 @@ Not only is Martin a great developer and a great teacher, hes also an amazing pe
 
 A company would do well to bring him on to their team!
 
-- Joseph Montiel, Web Developer (@juansnow01)
+-- Joseph Montiel, Web Developer (@juansnow01)
