@@ -13,3 +13,5 @@ Martin is personally responsible for getting me to where I am as a developer so 
 Not only is Martin a great developer and a great teacher, hes also an amazing person and friend. 
 
 A company would do well to bring him on to their team!
+
+- Joseph Montiel, Web Developer (@juansnow01)
